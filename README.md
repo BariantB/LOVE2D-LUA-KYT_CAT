@@ -1,5 +1,5 @@
 # LOVE2D-LUA-KYT_CAT
-Deplacement d'un carré avec collition
+Déplacement d'un carré avec collision
 
 Lien pour télécharger LOVE2D : https://love2d.org/
 
